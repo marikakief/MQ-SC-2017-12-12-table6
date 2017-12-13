@@ -3,7 +3,7 @@ awesome_function_1 <- function(argument1) {
 }
 
 awesome_function_2 <- function(argument1) {
-    _______
+    return(argument *2)
 }
 
 awesome_function_3 <- function(argument1) {
